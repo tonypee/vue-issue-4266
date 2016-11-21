@@ -1,6 +1,6 @@
-# test2
+Example for Vue Issue [https://github.com/vuejs/vue/issues/4266](https://github.com/vuejs/vue/issues/4266)
 
-> A Vue.js project
+Vue.js project
 
 ## Build Setup
 
